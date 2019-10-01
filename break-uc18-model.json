@@ -1,0 +1,12 @@
+{
+    "type": "model",
+    "authority-id": "qEDoadAknD7bwUAkdhrnHi1KHslxq5Gx",
+    "brand-id": "qEDoadAknD7bwUAkdhrnHi1KHslxq5Gx",
+    "series": "16",
+    "model": "break-uc18",
+    "architecture": "amd64",
+    "base": "core18",
+    "gadget": "pc=18",
+    "kernel": "pc-kernel=18",
+    "timestamp": "2019-06-25T04:40:53+00:00"
+}

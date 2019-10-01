@@ -1,0 +1,3 @@
+[submodule "core18"]
+	path = core18
+	url = git@github.com:anonymouse64/core18.git

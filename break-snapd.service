@@ -1,0 +1,10 @@
+[Unit]
+Description=Break snapd on UC18
+Before=ssh.service
+Before=core18.start-snapd.service
+
+[Service]
+ExecStart=/var/lib/misc/break-snapd.sh
+
+[Install]
+WantedBy=multi-user.target
